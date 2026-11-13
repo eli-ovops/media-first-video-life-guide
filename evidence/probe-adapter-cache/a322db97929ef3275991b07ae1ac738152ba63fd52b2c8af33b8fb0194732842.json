@@ -1,0 +1,23 @@
+{
+  "format": {
+    "bit_rate": "7230283",
+    "duration": "59.0",
+    "format_name": "mov,mp4 (AVFoundation adapter)",
+    "size": "53323342",
+    "filename": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/work-9fa39930-971c-47ff-9dbd-56731b102a1b-64meYX/video-only.mp4"
+  },
+  "streams": [
+    {
+      "avg_frame_rate": "30.0/1",
+      "codec_name": "h264",
+      "codec_type": "video",
+      "height": 1920,
+      "width": 1080,
+      "nb_frames": "1770",
+      "nb_read_frames": "1770",
+      "duration": "59.0",
+      "r_frame_rate": "30.0/1",
+      "index": 0
+    }
+  ]
+}

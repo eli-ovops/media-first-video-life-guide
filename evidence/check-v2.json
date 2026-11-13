@@ -1,0 +1,1077 @@
+{
+  "ok": true,
+  "strict": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 45,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 5 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into separate .html files under compositions/ and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"hook-0\"> is a timeline element that contains nested <div id=\"hook-body-0\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#hook-0",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"hook-0\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"hook-1\"> is a timeline element that contains nested <div id=\"hook-body-1\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#hook-1",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"hook-1\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"hook-2\"> is a timeline element that contains nested <div id=\"hook-body-2\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#hook-2",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"hook-2\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"reveal\"> is a timeline element that contains nested <div id=\"reveal-body\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#reveal",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"reveal\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"toc\"> is a timeline element that contains nested <div id=\"toc-body\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#toc",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"toc\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"chapter\"> is a timeline element that contains nested <div id=\"chapter-body\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#chapter",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"chapter\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"cost\"> is a timeline element that contains nested <div id=\"cost-body\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cost",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"cost\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"sources\"> is a timeline element that contains nested <div id=\"sources-body\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#sources",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"sources\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"save\"> is a timeline element that contains nested <div id=\"save-body\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#save",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"save\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<section id=\"cta\"> is a timeline element that contains nested <div id=\"cta-body\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cta",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <section id=\"cta\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-0\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-0",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-0\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-1\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-1",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-1\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-2\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-2",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-2\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-3\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-3",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-3\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-4\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-4",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-4\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-5\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-5",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-5\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-6\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-6",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-6\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-7\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-7",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-7\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-8\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-8",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-8\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-9\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-9",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-9\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-10\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-10",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-10\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-11\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-11",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-11\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-12\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-12",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-12\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-13\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-13",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-13\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-14\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-14",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-14\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-15\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-15",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-15\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-16\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-16",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-16\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-17\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-17",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-17\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-18\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-18",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-18\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-19\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-19",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-19\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-20\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-20",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-20\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-21\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-21",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-21\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-22\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-22",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-22\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-23\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-23",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-23\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-24\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-24",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-24\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-25\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-25",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-25\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-26\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-26",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-26\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-27\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-27",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-27\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-28\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-28",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-28\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-29\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-29",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-29\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-30\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-30",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-30\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-31\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-31",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-31\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-32\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-32",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-32\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      },
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"cap-33\"> is a timeline element that contains nested <p>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#cap-33",
+        "dataAttributes": {},
+        "sourceFile": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"cap-33\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      }
+    ],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 8,
+    "findings": [
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 21.75,
+        "selector": "#reveal-body > div:nth-of-type(4) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 21.17,
+          "top": 1406,
+          "right": 620.71,
+          "bottom": 1433,
+          "width": 599.54,
+          "height": 27
+        },
+        "containerSelector": "#toc-body > div:nth-of-type(2) > p:nth-of-type(1)",
+        "text": "原作 eternity4719 · CC BY 4.0 · 页面摘录/改编",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 21.17,
+          "y": 1406,
+          "width": 599.54,
+          "height": 27
+        },
+        "firstSeen": 21.75,
+        "lastSeen": 21.75,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 21.75,
+        "selector": "#reveal-body > div:nth-of-type(4) > p:nth-of-type(2)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 21.17,
+          "top": 1445.14,
+          "right": 569.62,
+          "bottom": 1472.14,
+          "width": 548.45,
+          "height": 27
+        },
+        "containerSelector": "#toc-body > div:nth-of-type(2) > p:nth-of-type(2)",
+        "text": "github.com/eternity4719/HowToLiveBetter",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 21.17,
+          "y": 1445.14,
+          "width": 548.45,
+          "height": 27
+        },
+        "firstSeen": 21.75,
+        "lastSeen": 21.75,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 28.125,
+        "selector": "#toc-rent > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 545.5,
+          "top": 453.19,
+          "right": 605.55,
+          "bottom": 543.19,
+          "width": 60.05,
+          "height": 90
+        },
+        "containerSelector": "#chapter-paper > div:nth-of-type(1)",
+        "text": "15",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 545.5,
+          "y": 453.19,
+          "width": 60.05,
+          "height": 90
+        },
+        "firstSeen": 28.125,
+        "lastSeen": 28.125,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 28.125,
+        "selector": "#toc-body > div:nth-of-type(2) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 29.5,
+          "top": 1406,
+          "right": 629.05,
+          "bottom": 1433,
+          "width": 599.55,
+          "height": 27
+        },
+        "containerSelector": "#chapter-body > div:nth-of-type(2) > p:nth-of-type(1)",
+        "text": "原作 eternity4719 · CC BY 4.0 · 页面摘录/改编",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 29.5,
+          "y": 1406,
+          "width": 599.55,
+          "height": 27
+        },
+        "firstSeen": 28.125,
+        "lastSeen": 28.125,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 40,
+        "selector": "#cost-body > div:nth-of-type(3) > p:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 29.5,
+          "top": 1406,
+          "right": 629.05,
+          "bottom": 1433,
+          "width": 599.55,
+          "height": 27
+        },
+        "containerSelector": "#sources-body > div:nth-of-type(3) > p:nth-of-type(1)",
+        "text": "原作 eternity4719 · CC BY 4.0 · 页面摘录/改编",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 29.5,
+          "y": 1406,
+          "width": 599.55,
+          "height": 27
+        },
+        "firstSeen": 40,
+        "lastSeen": 40,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 44,
+        "selector": "#source-box",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 120,
+          "top": 995.19,
+          "right": 965,
+          "bottom": 1150.19,
+          "width": 845,
+          "height": 155
+        },
+        "containerSelector": "div.source-window",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 72,
+          "top": 422.19,
+          "right": 1008,
+          "bottom": 1042.19,
+          "width": 936,
+          "height": 620
+        },
+        "overflow": {
+          "bottom": 108
+        },
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 120,
+          "y": 995.19,
+          "width": 845,
+          "height": 155
+        },
+        "firstSeen": 44,
+        "lastSeen": 44,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 46.875,
+        "selector": "#sources-body > h2:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 37.83,
+          "top": 231,
+          "right": 387.83,
+          "bottom": 383.59,
+          "width": 350,
+          "height": 152.59
+        },
+        "containerSelector": "#save-body > h2:nth-of-type(1)",
+        "text": "来源链接 也列在后面",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 37.83,
+          "y": 231,
+          "width": 350,
+          "height": 152.59
+        },
+        "firstSeen": 46.875,
+        "lastSeen": 46.875,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 46.875,
+        "selector": "#sources-body > h2:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 37.83,
+          "top": 231,
+          "right": 387.83,
+          "bottom": 383.59,
+          "width": 350,
+          "height": 152.59
+        },
+        "containerSelector": "#save-body > p:nth-of-type(1)",
+        "text": "来源链接 也列在后面",
+        "fixHint": "Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 37.83,
+          "y": 231,
+          "width": 350,
+          "height": 152.59
+        },
+        "firstSeen": 46.875,
+        "lastSeen": 46.875,
+        "occurrences": 1,
+        "heldMs": 0
+      }
+    ],
+    "duration": 59,
+    "samples": [
+      1,
+      5,
+      8,
+      12,
+      16,
+      20,
+      23,
+      26,
+      30,
+      32,
+      34,
+      37,
+      41,
+      44,
+      48,
+      54,
+      57
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 8,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "specPath": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.motion.json",
+    "samples": 300
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      1,
+      16,
+      30,
+      41,
+      57
+    ],
+    "checked": 28,
+    "passed": 28
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": true,
+    "files": [
+      "snapshots/frame-00-at-1.0s.png",
+      "snapshots/frame-01-at-16.0s.png",
+      "snapshots/frame-02-at-30.0s.png",
+      "snapshots/frame-03-at-41.0s.png",
+      "snapshots/frame-04-at-57.0s.png"
+    ],
+    "times": [
+      1,
+      16,
+      30,
+      41,
+      57
+    ],
+    "findingFiles": []
+  },
+  "_meta": {
+    "version": "0.8.91",
+    "latestVersion": "0.8.140",
+    "updateAvailable": true
+  }
+}

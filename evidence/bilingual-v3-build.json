@@ -1,0 +1,17 @@
+{
+  "duration": 59.5,
+  "poster_frames": 15,
+  "fps": 30,
+  "all_existing_cues_offset_seconds": 0.5,
+  "unchanged_original_voice": true,
+  "bilingual_count": 34,
+  "last_caption_duration": 1.0,
+  "source_snapshot": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/evidence/before-bilingual/index.html.txt",
+  "new_asset": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/poster-portrait-safe-v3.jpg",
+  "generated_files": [
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/data/captions-bilingual-v3.json",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/data/中英双语字幕-v3.srt"
+  ],
+  "poster_portrait_origin": "8秒时点，来自已遮照片的隐私母版，非原片未处理帧"
+}

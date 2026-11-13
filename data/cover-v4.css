@@ -1,0 +1,11 @@
+
+#cover-v3{background:#040c18}
+#cover-v3 .cover-tech-bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+#cover-v3 .cover-presenter{position:absolute;left:510px;top:565px;width:620px;height:1102px;object-fit:fill;clip-path:path("M 74 500 C 70 440 68 367 80 329 C 90 280 115 236 155 209 C 195 185 260 168 310 168 C 375 168 430 192 470 226 C 513 258 545 295 552 342 C 571 415 550 480 548 530 L 548 575 C 547 630 542 680 546 712 L 620 775 L 620 1102 L 0 1102 L 0 790 C 25 772 70 752 94 738 C 83 693 77 645 76 603 L 45 603 L 48 579 L 73 555 Z");z-index:2}
+#cover-v3 .cover-top-v4{position:absolute;left:70px;top:140px;width:940px;z-index:4;transform:rotate(-4deg)}
+#cover-v3 .cover-top-v4 p{font:900 101px/1.08 GuideSans,sans-serif;color:#fff;margin:0 0 13px;text-shadow:8px 8px 0 #020714,0 0 28px #062237}
+#cover-v3 .cover-top-v4 h1{font:900 168px/1.12 GuideSans,sans-serif;letter-spacing:-7px;color:#ffe568;margin:0;text-shadow:0 8px 0 #ae701c,9px 15px 0 #020714,0 0 30px #664015}
+#cover-v3 .cover-bottom-v4{position:absolute;left:65px;top:1485px;width:950px;z-index:5;transform:rotate(-3deg)}
+#cover-v3 .cover-bottom-v4 h2{font:900 165px/1.08 GuideSans,sans-serif;letter-spacing:-8px;margin:0;color:#56e3ff;text-shadow:0 7px 0 #126197,9px 14px 0 #020714,0 0 30px #083b60}
+#cover-v3 .cover-bottom-v4 p{font:900 53px/1.25 GuideSans,sans-serif;display:inline-block;margin:31px 0 0;color:#fff;background:#040c18;padding:13px 20px;border:3px solid #228bad;letter-spacing:3px}
+#cover-v3 .cover-topline-v4{position:absolute;left:74px;top:58px;font:500 28px/1.1 GuideSans,sans-serif;color:#81c5d9;letter-spacing:6px;z-index:5;margin:0}

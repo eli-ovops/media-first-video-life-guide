@@ -1,0 +1,41 @@
+{
+  "records": [
+    {
+      "path": "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93/first-video-life-guide-20261008/evidence/final-frames",
+      "birthtime": 1791432077.302833,
+      "source": "本轮verify-visuals.mjs误用URL.pathname创建的空目录",
+      "purpose": "无后续用途，正确路径已修复",
+      "created_after_script": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93/first-video-life-guide-20261008/evidence",
+      "birthtime": 1791432077.3027933,
+      "source": "本轮verify-visuals.mjs误用URL.pathname创建的空目录",
+      "purpose": "无后续用途，正确路径已修复",
+      "created_after_script": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93/first-video-life-guide-20261008",
+      "birthtime": 1791432077.3027322,
+      "source": "本轮verify-visuals.mjs误用URL.pathname创建的空目录",
+      "purpose": "无后续用途，正确路径已修复",
+      "created_after_script": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93",
+      "birthtime": 1791432077.302624,
+      "source": "本轮verify-visuals.mjs误用URL.pathname创建的空目录",
+      "purpose": "无后续用途，正确路径已修复",
+      "created_after_script": true
+    }
+  ],
+  "removed_empty_directories": [
+    "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93/first-video-life-guide-20261008/evidence/final-frames",
+    "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93/first-video-life-guide-20261008/evidence",
+    "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93/first-video-life-guide-20261008",
+    "/Volumes/EXTERNAL/%E8%87%AA%E5%AA%92%E4%BD%93"
+  ],
+  "df_before": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 385887192 1614293792    20% 3152482 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+  "df_after": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 385887196 1614293788    20% 3152478 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+  "note": "仅删除本轮可证明新建的空目录；文件未删。df并发变化不归因为空目录释放量。"
+}

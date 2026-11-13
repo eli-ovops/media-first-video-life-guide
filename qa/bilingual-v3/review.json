@@ -1,0 +1,53 @@
+{
+  "status": "READY_FOR_INTEGRATION",
+  "date": "2026-10-08",
+  "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/index.html",
+  "source_sha256_at_review": "cc81fea4bba28aaf501e6a721f88d017dd8f6476e69e2c62b8a1ec37eeccf8d5",
+  "source_rule": "逐条读取当前cap-0..33显示中文；未采用edit旧ASR文本",
+  "count": 34,
+  "max_english_characters": 47,
+  "over_55_characters": [],
+  "title_translation": "The Cost-Effective Life Guide",
+  "chapter_translation": "Which Skills Are Worth Learning?",
+  "translation_label": "自然英语译名；未宣称作者官方译名",
+  "semantic_checks": {
+    "might_preserved": "cap-20: What might you gain?",
+    "suggestion_preserved": "cap-11/cap-26",
+    "free_preserved": "cap-8/cap-10",
+    "someone_compiled_preserved": "cap-7",
+    "comment_and_send_preserved": "cap-31..33",
+    "GitHub_spelling": "cap-6",
+    "no_added_results_consulting_or_direct_message": true
+  },
+  "review_notes": [
+    {
+      "ids": [
+        "cap-6",
+        "cap-7",
+        "cap-8",
+        "cap-9"
+      ],
+      "note": "中文跨四条引出书名；英语对应拆成GitHub问题、有人整理、免费和书名。保留信息，不新增资料实测或官方译名声明。"
+    },
+    {
+      "ids": [
+        "cap-13",
+        "cap-14"
+      ],
+      "note": "英语保留跨字幕续句，Whatever issue comes up, you can / look through the relevant chapter；表达查章节的方法，不译成保证每个问题都能解决。"
+    },
+    {
+      "ids": [
+        "cap-33"
+      ],
+      "note": "原时长仅0.6秒，英文24字符；符合55字符上限但阅读时间仍较短。root若调整展示须保留台词与时间关系，不能擅加发私信或咨询承诺。"
+    }
+  ],
+  "scope": "仅翻译审阅数据；root负责双语布局、+0.5秒时间平移、静默封面和最终画面验收",
+  "actual_model_effort_speed": "UNKNOWN",
+  "created_files": [
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/translations.json",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/review.json"
+  ],
+  "no_temporary_media_created": true
+}

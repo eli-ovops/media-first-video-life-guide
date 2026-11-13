@@ -1,0 +1,260 @@
+{
+  "target": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-中英双语-首帧海报-v3.mp4",
+  "bytes": 83071706,
+  "sha256": "f392f9b4a6ef2c0b17e3dada4ce568442cb187757d48e803e31940aacfdc0671",
+  "full_decode_exit": 0,
+  "decoded_video_frames": 1785,
+  "decode_reached_end": true,
+  "black_events": [],
+  "decode_error_lines": [],
+  "metadata": {
+    "format": {
+      "bit_rate": "11169305",
+      "duration": "59.5",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "83071706"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "30.0/1",
+        "codec_name": "h264",
+        "codec_type": "video",
+        "height": 1920,
+        "width": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "stream_lines": [
+    "  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 10971 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+    "  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 190 kb/s (default)",
+    "  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 200 kb/s, 30 fps, 30 tbn (default)",
+    "  Stream #0:1(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)"
+  ],
+  "audio": {
+    "reference": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-画中画-隐私修订-v2.mp4",
+    "sample_peak_linear": 0.5596057176589966,
+    "sample_peak_dbfs": -5.042357136818422,
+    "nonempty": true,
+    "rms_linear": 0.0642030857561429,
+    "samples_abs_ge_0_99995": 0,
+    "samples_abs_gt1": 0,
+    "first_half_second_peak_linear": 2.035812576650642e-05,
+    "first_half_second_rms_linear": 6.963543852240776e-07,
+    "silence_threshold_predeclared_linear": 0.001,
+    "first_half_second_silent": true,
+    "five_regions": [
+      {
+        "clip": 1,
+        "source_region_seconds": [
+          11.5,
+          13.5
+        ],
+        "v3_offset_seconds": 0.5,
+        "correlation": 0.999605547498594
+      },
+      {
+        "clip": 2,
+        "source_region_seconds": [
+          18.5,
+          20.5
+        ],
+        "v3_offset_seconds": 0.5,
+        "correlation": 0.999973946476614
+      },
+      {
+        "clip": 3,
+        "source_region_seconds": [
+          29,
+          31
+        ],
+        "v3_offset_seconds": 0.5,
+        "correlation": 0.9998415143388122
+      },
+      {
+        "clip": 4,
+        "source_region_seconds": [
+          41,
+          43
+        ],
+        "v3_offset_seconds": 0.5,
+        "correlation": 0.9998008291506771
+      },
+      {
+        "clip": 5,
+        "source_region_seconds": [
+          53,
+          55
+        ],
+        "v3_offset_seconds": 0.5,
+        "correlation": 0.9997967970956543
+      }
+    ],
+    "voiced_half_second_windows": 117,
+    "min_correlation_at_plus_half_second": 0.996788907590658,
+    "windows_below_0_97": [],
+    "scope": "v3对v2单声道16kHz相关性/偏移；原生48kHz双声道峰值；未重读原片、不证明模拟true-peak或主观听音",
+    "silence_note": "前0.5秒峰值约2.04e-5（约-93.8dBFS），低于预设-60dBFS静默阈值；不是逐样本全零，AAC编码可产生微小残值。"
+  },
+  "poster": {
+    "frames_checked": 16,
+    "poster_frame_indices": [
+      0,
+      14
+    ],
+    "poster_frames": 15,
+    "boundary_frame_index": 15,
+    "boundary_seconds": 0.5,
+    "downscaled_width": 270,
+    "downscaled_height": 480,
+    "stability_threshold_predeclared_rgb_levels": 3,
+    "mean_absolute_rgb_difference_vs_frame0": [
+      0.0,
+      0.04162037037037037,
+      0.04176954732510288,
+      0.04672582304526749,
+      0.0484619341563786,
+      0.04960648148148148,
+      0.04911008230452675,
+      0.051406893004115224,
+      0.05095421810699589,
+      0.05396347736625515,
+      0.05291923868312757,
+      0.05356224279835391,
+      0.054760802469135804,
+      0.054544753086419755,
+      0.05429526748971193
+    ],
+    "mean_absolute_rgb_adjacent_difference": [
+      0.04162037037037037,
+      0.020581275720164608,
+      0.016823559670781894,
+      0.01429783950617284,
+      0.012492283950617284,
+      0.010218621399176954,
+      0.007960390946502057,
+      0.006003086419753087,
+      0.007196502057613169,
+      0.0073405349794238685,
+      0.005015432098765432,
+      0.0049948559670781895,
+      0.0015380658436213992,
+      0.0010365226337448559
+    ],
+    "max_poster_difference_vs_first": 0.054760802469135804,
+    "max_poster_adjacent_difference": 0.04162037037037037,
+    "boundary_mean_absolute_rgb_difference": 46.01888374485597,
+    "boundary_significant_threshold_predeclared_rgb_levels": 3,
+    "passes": true,
+    "scope": "实际MP4前16帧统计，非PNG替代；海报文字/内容由root看帧验收"
+  },
+  "privacy_auxiliary_roi": {
+    "rectangle": [
+      450,
+      8,
+      230,
+      24
+    ],
+    "target_rgb": [
+      23,
+      37,
+      30
+    ],
+    "threshold_predeclared": 8,
+    "frames_checked": 540,
+    "max_rgb_difference": 5,
+    "max_channel_spatial_range": 0,
+    "failed_frames": [],
+    "passes": true,
+    "scope": "顶部小ROI全部540帧辅助证据；不宣称照片全区域识别或完整连续视觉验收"
+  },
+  "unchanged_sources_and_older_versions": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master.mp4",
+      "sha256": "5d0971dd857242d1958bcc90449cf95234e297e8bd4453b54fdb54dbf8dcadf2",
+      "matches_prior": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/master-redacted.mp4",
+      "sha256": "be57bb19582dac95fa163d494265bea01f4829dc5ea472134f4008e83b7fd17e",
+      "matches_prior": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-画中画-隐私修订-v2.mp4",
+      "sha256": "bf79cf5835b025a91bdea5dc9440ad86e4619c271c5e89611385300aa2b86d97",
+      "matches_prior": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-首条-v1.mp4",
+      "sha256": "79f1a550f7d9948b8e9d6ccb150912506ca617cecf776c54bfb3e414fe798811",
+      "matches_prior": true
+    }
+  ],
+  "composition_check": {
+    "lint": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 46,
+      "infoCount": 0
+    },
+    "runtime": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "layout": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "motion": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "contrast": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0,
+      "checked": 35,
+      "passed": 35
+    }
+  },
+  "caption_data": {
+    "count": 34,
+    "poster_seconds": 0.5,
+    "timing_offset": 0.5,
+    "last_caption": {
+      "id": "cap-33",
+      "zh": "我发给你",
+      "en": "I'll send it to you.",
+      "start": 58.5,
+      "end": 59.5
+    },
+    "source": "data/captions-bilingual-v3.json",
+    "translation_limit": "只读当前修订字幕，无回滚初稿，最终中上英下由root画面验收"
+  },
+  "actual_model_effort_speed": "UNKNOWN",
+  "limits": "root负责实际画面文字/双语排版/PIP/隐私视觉验收；机器统计不是连续完整看听",
+  "status": "PASS",
+  "specification_verified": {
+    "duration_seconds": 59.5,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 1785,
+    "video_codec": "h264 High",
+    "audio_codec": "aac LC",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "evidence": "AVFoundation metadata + actual FFmpeg stream lines and decoded frame count"
+  },
+  "verification_script_repair": "首次核验在JSON序列化np.bool时失败；改为Python bool后成功，初次失败日志保留run-output.log；未放宽验收阈值。"
+}

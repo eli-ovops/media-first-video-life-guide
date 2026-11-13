@@ -1,0 +1,198 @@
+{
+  "target": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-画中画-隐私修订-v2.mp4",
+  "bytes": 83706175,
+  "sha256": "bf79cf5835b025a91bdea5dc9440ad86e4619c271c5e89611385300aa2b86d97",
+  "specification_source": "当前AVFoundation元数据及真实FFmpeg完整解码；未调用会写evidence的ffprobe-adapter",
+  "metadata": {
+    "format": {
+      "bit_rate": "11349989",
+      "duration": "59.0",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "83706175"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "30.0/1",
+        "codec_name": "h264",
+        "codec_type": "video",
+        "height": 1920,
+        "width": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "full_decode_command": "见qa/pip-v2/verify_final.py",
+  "full_decode_exit": 0,
+  "decoded_video_frames": 1770,
+  "black_events": [],
+  "decode_error_lines": [],
+  "audio": {
+    "decoded_master_seconds": 59.008,
+    "decoded_final_seconds": 59.008,
+    "native_sample_peak_linear": 0.5593218207359314,
+    "native_sample_peak_dbfs": -5.046764745552017,
+    "samples_abs_ge_0_99995": 0,
+    "samples_abs_gt_1": 0,
+    "rms_linear": 0.06460749406563256,
+    "nonempty": true,
+    "peak_limit": "只核解码样本峰值；未证明模拟true-peak/完整主观听音"
+  },
+  "audio_correlation": {
+    "regions": [
+      {
+        "clip": 1,
+        "master_region": [
+          11.5,
+          13.5
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999759294034929
+      },
+      {
+        "clip": 2,
+        "master_region": [
+          18.5,
+          20.5
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999976750349777
+      },
+      {
+        "clip": 3,
+        "master_region": [
+          29,
+          31
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999591465717665
+      },
+      {
+        "clip": 4,
+        "master_region": [
+          41,
+          43
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999973747395219
+      },
+      {
+        "clip": 5,
+        "master_region": [
+          53,
+          55
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999923919595215
+      }
+    ],
+    "excluded_sfx_windows": [
+      [
+        0,
+        0.6
+      ],
+      [
+        3.05,
+        3.7
+      ],
+      [
+        6.25,
+        6.9
+      ],
+      [
+        10.6,
+        11.4
+      ]
+    ],
+    "median_offset_seconds": 0.0,
+    "half_second_voiced_windows_tested": 107,
+    "min_correlation": 0.9985874700207898,
+    "median_correlation": 0.9999944034039613,
+    "windows_below_0_97": [],
+    "min_gain": 1.405167116600367,
+    "max_gain": 1.4142279275164666,
+    "method": "5段各2s±200ms偏移搜索＋全轨0.5s语音窗相关性（排除4个SFX窗和<-45dB静音）；对master，不重读原片",
+    "interpretation": "高相关性和稳定偏移支持同源原声、无可检测语音缺口；不等于逐字听音验收"
+  },
+  "actual_model_effort_speed": "UNKNOWN",
+  "privacy_final_auxiliary_roi": {
+    "rectangle": [
+      450,
+      8,
+      230,
+      24
+    ],
+    "color": [
+      23,
+      37,
+      30
+    ],
+    "threshold_predeclared": 8,
+    "decode_exit": 0,
+    "frames_checked": 525,
+    "max_rgb_difference": 5,
+    "max_channel_spatial_range": 0,
+    "fail_frames_gt8": [],
+    "passes_525_frame_8_level_check": true,
+    "scope": "顶部小ROI全帧检查，仅支持最终文件确有隐私背景；完整照片范围依赖母版全ROI核验及root画面核验，不是全人像识别"
+  },
+  "source_hash_checks": {
+    "sha256_current": {
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master.mp4": "5d0971dd857242d1958bcc90449cf95234e297e8bd4453b54fdb54dbf8dcadf2",
+      "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/master-redacted.mp4": "be57bb19582dac95fa163d494265bea01f4829dc5ea472134f4008e83b7fd17e"
+    },
+    "master_matches_prior": true,
+    "redacted_matches_prior": true
+  },
+  "composition_check": {
+    "lint": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 45,
+      "infoCount": 0
+    },
+    "runtime": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "layout": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "motion": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "contrast": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0,
+      "checked": 29,
+      "passed": 29
+    }
+  },
+  "limitation": "机器解码/采样统计/音频相关性；非连续主观完整看听验收。解码样本无削波不证明true-peak。",
+  "scope": "仅最终技术验收；root负责视觉/交付；未重读原片、未抽取未遮照片。",
+  "status": "PASS",
+  "specification": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_frames": 1770,
+    "container_seconds": 59.0,
+    "video_codec": "H264 High",
+    "audio_codec": "AAC LC",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "source": "AVFoundation metadata and actual FFmpeg complete decode input stream log"
+  }
+}

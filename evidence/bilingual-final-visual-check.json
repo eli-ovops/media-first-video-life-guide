@@ -1,0 +1,43 @@
+{
+  "movie": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-中英双语-首帧海报-v3.mp4",
+  "timestamps": [
+    0,
+    0.4667,
+    0.5,
+    1.5,
+    8.5,
+    16.5,
+    18,
+    23.5,
+    25.5,
+    28.5,
+    32.5,
+    34.9,
+    37.2,
+    39,
+    40.5,
+    42.7,
+    44.5,
+    47.4,
+    49.5,
+    52.5,
+    56.2,
+    58.7,
+    59.3,
+    59.45
+  ],
+  "scope": "实际成片场景/转场采样；不是完整动态看听",
+  "directory_region": {
+    "left": 113,
+    "top": 275,
+    "width": 330,
+    "height": 370
+  },
+  "directory_frame_pair": [
+    23.5,
+    25.5
+  ],
+  "directory_mean_absolute_pixel_difference": 20.098088998088997,
+  "directory_changed_channel_fraction": 0.2527136227136227,
+  "notes": "像素差异仅作录屏进入成片的辅助证据；动作和内容由实际采样图阅读确认。"
+}

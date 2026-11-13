@@ -1,0 +1,16 @@
+{
+  "format": {
+    "bit_rate": "769955",
+    "duration": "0.18",
+    "format_name": "mov,mp4 (AVFoundation adapter)",
+    "size": "17324",
+    "filename": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/reveal.wav"
+  },
+  "streams": [
+    {
+      "codec_name": "lpcm",
+      "codec_type": "audio",
+      "index": 0
+    }
+  ]
+}

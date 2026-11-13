@@ -1,0 +1,43 @@
+{
+  "movie": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-首条-v1.mp4",
+  "timestamps": [
+    1,
+    5,
+    8,
+    10.85,
+    11.05,
+    16,
+    21.65,
+    23,
+    25,
+    27.98,
+    30.95,
+    32,
+    33.35,
+    34.4,
+    36.7,
+    38.5,
+    39.95,
+    42.2,
+    44,
+    46.9,
+    49,
+    52,
+    55.7,
+    58.2
+  ],
+  "scope": "实际成片场景/转场采样；不是完整动态看听",
+  "directory_region": {
+    "left": 90,
+    "top": 500,
+    "width": 430,
+    "height": 780
+  },
+  "directory_frame_pair": [
+    23,
+    25
+  ],
+  "directory_mean_absolute_pixel_difference": 19.676817730073545,
+  "directory_changed_channel_fraction": 0.24670244484197973,
+  "notes": "像素差异仅作录屏进入成片的辅助证据；动作和内容由实际采样图阅读确认。"
+}

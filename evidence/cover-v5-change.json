@@ -1,0 +1,8 @@
+{
+  "change": "remove presenter only from 0.5s cover and enlarge existing book art",
+  "no_presenter_in_cover": true,
+  "body_matches_v4": true,
+  "body_markup_sha256": "e51d0dc01e9b86ad0209ee86dd9a69855f70f2dd6c37a4cb38253031a69e97c3",
+  "new_generated_media": false,
+  "new_uploads": false
+}

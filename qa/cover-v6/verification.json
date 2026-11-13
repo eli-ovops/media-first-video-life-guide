@@ -1,0 +1,51 @@
+{
+  "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-地球online攻略-中英双语-v6.mp4",
+  "bytes": 121101021,
+  "sha256": "ed62dd8f8883ea8e5c886ea8b4e51638cef218c7335401b993e888b1bdd5376c",
+  "metadata": {
+    "format": {
+      "bit_rate": "16282490",
+      "duration": "59.5",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "121101021"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "30.0/1",
+        "codec_name": "h264",
+        "codec_type": "video",
+        "height": 1920,
+        "width": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "full_decode_exit": 0,
+  "frames": 1785,
+  "reached_end": true,
+  "errors": [],
+  "black_events": [],
+  "poster": {
+    "static_frames": 15,
+    "stability_threshold": 3,
+    "max_mean_rgb_difference": 1.359349279835391,
+    "boundary_frame": 15,
+    "boundary_seconds": 0.5,
+    "boundary_mean_rgb_difference": 93.40471193415638,
+    "passes": true
+  },
+  "audio": {
+    "reference": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-纯内容封面-中英双语-v5.mp4",
+    "same_decoded_float_samples": true,
+    "correlation": 1.0,
+    "peak": 0.5596057176589966,
+    "first_half_second_peak": 2.035812576650642e-05,
+    "silence_threshold": 0.001,
+    "clipping_samples": 0
+  },
+  "scope": "完整技术解码、音轨比较、首15帧统计和指定时点静态画面；不是完整连续动态看听",
+  "passed": true
+}

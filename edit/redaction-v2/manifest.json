@@ -1,0 +1,156 @@
+{
+  "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master.mp4",
+  "source_sha256_before": "5d0971dd857242d1958bcc90449cf95234e297e8bd4453b54fdb54dbf8dcadf2",
+  "output": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/master-redacted.mp4",
+  "rectangle": {
+    "x": 0,
+    "y": 0,
+    "width": 1080,
+    "height": 480
+  },
+  "color": "#17251e",
+  "opacity": 1,
+  "time_range": {
+    "start": 0,
+    "end_exclusive": 17.5,
+    "frames": 525
+  },
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-hide_banner",
+    "-nostdin",
+    "-n",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master.mp4",
+    "-map",
+    "0:v:0",
+    "-map",
+    "0:a:0",
+    "-vf",
+    "drawbox=x=0:y=0:w=1080:h=480:color=0x17251e:t=fill:enable='lt(t,17.5)'",
+    "-c:v",
+    "libx264",
+    "-crf",
+    "20",
+    "-preset",
+    "veryfast",
+    "-maxrate",
+    "10M",
+    "-bufsize",
+    "20M",
+    "-pix_fmt",
+    "yuv420p",
+    "-color_primaries",
+    "bt709",
+    "-color_trc",
+    "bt709",
+    "-colorspace",
+    "bt709",
+    "-c:a",
+    "copy",
+    "-movflags",
+    "+faststart",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/master-redacted.mp4"
+  ],
+  "source_sampling": "0–17秒18个等距画面实际读过；照片/相框下沿估计低于452px，使用480px上部条带，不覆盖眼睛/鼻嘴；非连续人工看听",
+  "privacy": "source-contact-private.jpg含待遮照片仅供本地验收，不公开分发。原master/原片/旧版未改未删。",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/README.md",
+      "bytes": 3134,
+      "sha256": "75f7b6e0c996da94e2a81f3ec6e0689b5163399e38852f26d32c5561f386c16d",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/decode-progress.txt",
+      "bytes": 1509,
+      "sha256": "07ec587cbff0341b64846164c498499251415c015a005de550b55823860cc8ca",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/encode.log",
+      "bytes": 7785,
+      "sha256": "51547b24220b3599791bdb3a2d2d1a138d3e946a06a9e195279cd86b79720fcf",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/full-decode.log",
+      "bytes": 2409,
+      "sha256": "57b63609f2dbf133142b6f39a0beccac0aef4cdf3ce2a4ae987860bd51eca187",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/inspect_roi_edges.py",
+      "bytes": 1812,
+      "sha256": "39f8600f9833b1521e37d055cf192d7e8cab1baa9c1de9a05d0bd9de634e3a3f",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/master-redacted.mp4",
+      "bytes": 61802739,
+      "sha256": "be57bb19582dac95fa163d494265bea01f4829dc5ea472134f4008e83b7fd17e",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/redact.py",
+      "bytes": 1483,
+      "sha256": "50c103cd71efe511b42a83465d871053796173d1c5c2af6723f28c7764cf3478",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/roi-all-frames.json",
+      "bytes": 195599,
+      "sha256": "e136c0d77e2a091cc523fe2b7c7e9ad1a155aca3aa9d32b956ee6e0e14914005",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/roi-decode.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/roi-edge-detail.json",
+      "bytes": 117180,
+      "sha256": "27bce1a55440d52bf6cc7ea59e60e7578de2d94563f6d249dd8c620e083aa8a2",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/safe-contact.jpg",
+      "bytes": 143559,
+      "sha256": "526d7daf238139667208367881018e4c4a4fc197c32256c6c8475e5d2a2c01bc",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/safe-contact.log",
+      "bytes": 2401,
+      "sha256": "7ef29ef795bd7e22d7dea346bd11777c299eb62fb90fac041f263080a1079515",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/source-contact-private.jpg",
+      "bytes": 169605,
+      "sha256": "fe0744acb366792801587594e36c8afa33dd881cf7d16091cc46b532291adc5c",
+      "purpose": "源图仅私有核对"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/source-contact.log",
+      "bytes": 2462,
+      "sha256": "91670479fadd18ee011277506e3d8b786165821a2ef828c688890e57002ccb06",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/verification.json",
+      "bytes": 2618,
+      "sha256": "655ca2d1fea5fd87aa6047b4b8eac250ce3187e5e7038bfcc4344b257d2b7081",
+      "purpose": "本任务输出/重现/验收证据"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/verify.py",
+      "bytes": 3433,
+      "sha256": "b406e8350607302924e7780d5fc8ad7ce94da0322054114597ec603c9ab4815f",
+      "purpose": "本任务输出/重现/验收证据"
+    }
+  ],
+  "manifest_self_hash": "不递归包含自身哈希"
+}

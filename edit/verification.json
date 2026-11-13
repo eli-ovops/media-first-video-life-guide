@@ -1,0 +1,67 @@
+{
+  "source_hash_verification": [
+    {
+      "source": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+      "matches_before_hash": true
+    },
+    {
+      "source": "/Users/USER/Downloads/76c971fb70d60bd7659b450b5e34d41f_raw.mp4",
+      "matches_before_hash": true
+    },
+    {
+      "source": "/Users/USER/Downloads/e501701cdbd3b1495d7418788afc05cc_raw.mp4",
+      "matches_before_hash": true
+    },
+    {
+      "source": "/Users/USER/Downloads/1c0ef867027711154271f3f4b44803db_raw.mp4",
+      "matches_before_hash": true
+    },
+    {
+      "source": "/Users/USER/Downloads/076d5b70542c70c284911e8dac29a7b7_raw.mp4",
+      "matches_before_hash": true
+    }
+  ],
+  "audio_checks": [
+    {
+      "clip": 1,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9999135164657278,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 2,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9999717333451021,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 3,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9998967828627751,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 4,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9999290166544119,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 5,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9998200604550198,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    }
+  ],
+  "audio_duration": 59.008,
+  "master_bytes": 76381402,
+  "master_sha256": "5d0971dd857242d1958bcc90449cf95234e297e8bd4453b54fdb54dbf8dcadf2",
+  "full_decode_exit": 0,
+  "decoded_video_frames": 1770,
+  "black_events": 0,
+  "decode_errors": false,
+  "caption_count": 34,
+  "caption_ranges_valid": true,
+  "caption_review_status": "待逐字听音与分句时间终审",
+  "actual_model_effort_speed": "UNKNOWN"
+}

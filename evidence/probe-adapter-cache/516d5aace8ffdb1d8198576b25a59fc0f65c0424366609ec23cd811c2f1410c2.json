@@ -1,0 +1,31 @@
+{
+  "format": {
+    "bit_rate": "7426540",
+    "duration": "59.0",
+    "format_name": "mov,mp4 (AVFoundation adapter)",
+    "size": "54770734",
+    "filename": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/.人生指南-首条-v1.hf-transaction-FmNHxE/人生指南-首条-v1.mp4"
+  },
+  "streams": [
+    {
+      "avg_frame_rate": "30.0/1",
+      "codec_name": "h264",
+      "codec_type": "video",
+      "height": 1920,
+      "width": 1080,
+      "nb_frames": "1770",
+      "nb_read_frames": "1770",
+      "duration": "59.0",
+      "r_frame_rate": "30.0/1",
+      "index": 0
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "index": 1,
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "59.008"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-00-n0-at-0.000s.jpg",
+    "requested_seconds": 0,
+    "frame_index": 0,
+    "actual_seconds": 0.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-01-n14-at-0.467s.jpg",
+    "requested_seconds": 0.4666666666666667,
+    "frame_index": 14,
+    "actual_seconds": 0.4666666666666667,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-02-n15-at-0.500s.jpg",
+    "requested_seconds": 0.5,
+    "frame_index": 15,
+    "actual_seconds": 0.5,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-03-n336-at-11.200s.jpg",
+    "requested_seconds": 11.2,
+    "frame_index": 336,
+    "actual_seconds": 11.2,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-04-n340-at-11.333s.jpg",
+    "requested_seconds": 11.35,
+    "frame_index": 340,
+    "actual_seconds": 11.333333333333334,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-05-n346-at-11.533s.jpg",
+    "requested_seconds": 11.55,
+    "frame_index": 346,
+    "actual_seconds": 11.533333333333333,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-06-n360-at-12.000s.jpg",
+    "requested_seconds": 12,
+    "frame_index": 360,
+    "actual_seconds": 12.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-07-n390-at-13.000s.jpg",
+    "requested_seconds": 13,
+    "frame_index": 390,
+    "actual_seconds": 13.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-08-n495-at-16.500s.jpg",
+    "requested_seconds": 16.5,
+    "frame_index": 495,
+    "actual_seconds": 16.5,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-09-n646-at-21.533s.jpg",
+    "requested_seconds": 21.55,
+    "frame_index": 646,
+    "actual_seconds": 21.533333333333335,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-10-n652-at-21.733s.jpg",
+    "requested_seconds": 21.75,
+    "frame_index": 652,
+    "actual_seconds": 21.733333333333334,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-11-n657-at-21.900s.jpg",
+    "requested_seconds": 21.9,
+    "frame_index": 657,
+    "actual_seconds": 21.9,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-12-n915-at-30.500s.jpg",
+    "requested_seconds": 30.5,
+    "frame_index": 915,
+    "actual_seconds": 30.5,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-13-n920-at-30.667s.jpg",
+    "requested_seconds": 30.65,
+    "frame_index": 920,
+    "actual_seconds": 30.666666666666668,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-14-n927-at-30.900s.jpg",
+    "requested_seconds": 30.9,
+    "frame_index": 927,
+    "actual_seconds": 30.9,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-15-n952-at-31.733s.jpg",
+    "requested_seconds": 31.75,
+    "frame_index": 952,
+    "actual_seconds": 31.733333333333334,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-16-n957-at-31.900s.jpg",
+    "requested_seconds": 31.9,
+    "frame_index": 957,
+    "actual_seconds": 31.9,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-17-n966-at-32.200s.jpg",
+    "requested_seconds": 32.2,
+    "frame_index": 966,
+    "actual_seconds": 32.2,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-18-n975-at-32.500s.jpg",
+    "requested_seconds": 32.5,
+    "frame_index": 975,
+    "actual_seconds": 32.5,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-19-n1000-at-33.333s.jpg",
+    "requested_seconds": 33.35,
+    "frame_index": 1000,
+    "actual_seconds": 33.333333333333336,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-20-n1005-at-33.500s.jpg",
+    "requested_seconds": 33.5,
+    "frame_index": 1005,
+    "actual_seconds": 33.5,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-21-n1008-at-33.600s.jpg",
+    "requested_seconds": 33.6,
+    "frame_index": 1008,
+    "actual_seconds": 33.6,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-22-n1011-at-33.700s.jpg",
+    "requested_seconds": 33.7,
+    "frame_index": 1011,
+    "actual_seconds": 33.7,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-23-n1020-at-34.000s.jpg",
+    "requested_seconds": 34,
+    "frame_index": 1020,
+    "actual_seconds": 34.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-24-n1050-at-35.000s.jpg",
+    "requested_seconds": 35,
+    "frame_index": 1050,
+    "actual_seconds": 35.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-25-n1110-at-37.000s.jpg",
+    "requested_seconds": 37,
+    "frame_index": 1110,
+    "actual_seconds": 37.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-26-n1140-at-38.000s.jpg",
+    "requested_seconds": 38,
+    "frame_index": 1140,
+    "actual_seconds": 38.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-27-n1197-at-39.900s.jpg",
+    "requested_seconds": 39.9,
+    "frame_index": 1197,
+    "actual_seconds": 39.9,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-28-n1204-at-40.133s.jpg",
+    "requested_seconds": 40.15,
+    "frame_index": 1204,
+    "actual_seconds": 40.13333333333333,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-29-n1209-at-40.300s.jpg",
+    "requested_seconds": 40.3,
+    "frame_index": 1209,
+    "actual_seconds": 40.3,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-30-n1218-at-40.600s.jpg",
+    "requested_seconds": 40.6,
+    "frame_index": 1218,
+    "actual_seconds": 40.6,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-31-n1230-at-41.000s.jpg",
+    "requested_seconds": 41,
+    "frame_index": 1230,
+    "actual_seconds": 41.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-32-n1260-at-42.000s.jpg",
+    "requested_seconds": 42,
+    "frame_index": 1260,
+    "actual_seconds": 42.0,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-33-n1394-at-46.467s.jpg",
+    "requested_seconds": 46.45,
+    "frame_index": 1394,
+    "actual_seconds": 46.46666666666667,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-34-n1401-at-46.700s.jpg",
+    "requested_seconds": 46.7,
+    "frame_index": 1401,
+    "actual_seconds": 46.7,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-35-n1404-at-46.800s.jpg",
+    "requested_seconds": 46.8,
+    "frame_index": 1404,
+    "actual_seconds": 46.8,
+    "source": "actual exported v7 MP4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/visual-v7/exported-frames/frame-36-n1779-at-59.300s.jpg",
+    "requested_seconds": 59.3,
+    "frame_index": 1779,
+    "actual_seconds": 59.3,
+    "source": "actual exported v7 MP4"
+  }
+]

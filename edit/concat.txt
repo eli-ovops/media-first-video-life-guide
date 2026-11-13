@@ -1,0 +1,5 @@
+file '/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-01.mp4'
+file '/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-02.mp4'
+file '/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-03.mp4'
+file '/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-04.mp4'
+file '/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-05.mp4'

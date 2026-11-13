@@ -1,0 +1,51 @@
+{
+  "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-科技封面-中英双语-v4.mp4",
+  "bytes": 83234330,
+  "sha256": "68d899edd49617bf230de4a1b2ce259b7979bbc578b5c016eda33a315653e29e",
+  "metadata": {
+    "format": {
+      "bit_rate": "11191170",
+      "duration": "59.5",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "83234330"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "30.0/1",
+        "codec_name": "h264",
+        "codec_type": "video",
+        "height": 1920,
+        "width": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "full_decode_exit": 0,
+  "frames": 1785,
+  "reached_end": true,
+  "errors": [],
+  "black_events": [],
+  "poster": {
+    "static_frames": 15,
+    "stability_threshold": 3,
+    "max_mean_rgb_difference": 0.04889146090534979,
+    "boundary_frame": 15,
+    "boundary_seconds": 0.5,
+    "boundary_mean_rgb_difference": 87.70519547325102,
+    "passes": true
+  },
+  "audio": {
+    "reference": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-中英双语-首帧海报-v3.mp4",
+    "same_decoded_float_samples": true,
+    "correlation": 1.0,
+    "peak": 0.5596057176589966,
+    "first_half_second_peak": 2.035812576650642e-05,
+    "silence_threshold": 0.001,
+    "clipping_samples": 0
+  },
+  "scope": "完整技术解码、音轨比较、首15帧统计和指定时点静态画面；不是完整连续动态看听",
+  "passed": true
+}

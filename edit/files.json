@@ -1,0 +1,333 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/audio-correlation.json",
+    "bytes": 1170,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/build_master.py",
+    "bytes": 5152,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/captions.json",
+    "bytes": 11971,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-01.mp4",
+    "bytes": 21869865,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-02.mp4",
+    "bytes": 13486337,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-03.mp4",
+    "bytes": 15434133,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-04.mp4",
+    "bytes": 15768994,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/clip-05.mp4",
+    "bytes": 9826309,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/concat-sync.log",
+    "bytes": 2223,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/concat.log",
+    "bytes": 2881,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/concat.txt",
+    "bytes": 405,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/cut-plan.json",
+    "bytes": 10380,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/edge-contact-sheet.jpg",
+    "bytes": 274591,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/encode-01.log",
+    "bytes": 8549,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/encode-02.log",
+    "bytes": 7882,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/encode-03.log",
+    "bytes": 6978,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/encode-04.log",
+    "bytes": 6979,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/encode-05.log",
+    "bytes": 6688,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/final-full-decode.log",
+    "bytes": 3263,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/full-decode-sync.log",
+    "bytes": 3138,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/full-decode.log",
+    "bytes": 3192,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master-dts-draft.mp4",
+    "bytes": 76380624,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "已被原片一次编码音轨的最终母版替代，无后续用途；本任务可再生草稿",
+    "cleanup_planned": true,
+    "state": "deleted_per_cleanup_json"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master-resample-draft.mp4",
+    "bytes": 76368122,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "已被原片一次编码音轨的最终母版替代，无后续用途；本任务可再生草稿",
+    "cleanup_planned": true,
+    "state": "deleted_per_cleanup_json"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master.mp4",
+    "bytes": 76381402,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/original-audio-sync.log",
+    "bytes": 10626,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-01-1.jpg",
+    "bytes": 22305,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-01-2.jpg",
+    "bytes": 21024,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-02-1.jpg",
+    "bytes": 17699,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-02-2.jpg",
+    "bytes": 18485,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-03-1.jpg",
+    "bytes": 17503,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-03-2.jpg",
+    "bytes": 18952,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-04-1.jpg",
+    "bytes": 17136,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-04-2.jpg",
+    "bytes": 17929,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-05-1.jpg",
+    "bytes": 14032,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sample-05-2.jpg",
+    "bytes": 17839,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/samples.json",
+    "bytes": 2225,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/source-01-metadata.log",
+    "bytes": 1694,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/source-02-metadata.log",
+    "bytes": 1693,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/source-03-metadata.log",
+    "bytes": 1693,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/source-04-metadata.log",
+    "bytes": 1694,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/source-05-metadata.log",
+    "bytes": 1693,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/sync_audio.py",
+    "bytes": 1280,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/verification.json",
+    "bytes": 2213,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/verify_audio.py",
+    "bytes": 2423,
+    "origin": "本次五原片剪接/字幕/验证任务新建",
+    "purpose": "母版/重现脚本/日志/首尾采样/验证/字幕与切点证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/README.md",
+    "bytes": 3793,
+    "origin": "本次原声剪接任务新建",
+    "purpose": "文件记录、收尾说明或清理证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/cleanup.json",
+    "bytes": 1147,
+    "origin": "本次原声剪接任务新建",
+    "purpose": "文件记录、收尾说明或清理证据",
+    "state": "retained"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/files.json",
+    "bytes": 12160,
+    "origin": "本次原声剪接任务新建",
+    "purpose": "文件记录、收尾说明或清理证据",
+    "state": "retained"
+  }
+]

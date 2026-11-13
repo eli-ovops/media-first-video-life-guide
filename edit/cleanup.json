@@ -1,0 +1,18 @@
+{
+  "deleted": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master-dts-draft.mp4",
+      "bytes": 76380624,
+      "reason": "本任务记录的可再生无用途编码草稿；仅删除这两个具体路径"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/master-resample-draft.mp4",
+      "bytes": 76368122,
+      "reason": "本任务记录的可再生无用途编码草稿；仅删除这两个具体路径"
+    }
+  ],
+  "df_before": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 385101260 1615079724    20% 3148737 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+  "df_after": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 384952092 1615228892    20% 3148735 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+  "limit": "仅本任务新建且已记录的两份编码草稿，原片、最终母版及验证证据未删除",
+  "space_attribution": "同文件系统df差值受root并发生成媒体影响，不能全归因于本次清理"
+}

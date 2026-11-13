@@ -1,0 +1,21 @@
+{
+  "duration": 59.5,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#cover-v3",
+      "bySec": 0
+    },
+    {
+      "kind": "appearsBy",
+      "selector": "#hook-body-0",
+      "bySec": 1
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#progress",
+      "fromSec": 0.5,
+      "toSec": 59.5
+    }
+  ]
+}

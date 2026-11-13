@@ -1,0 +1,36 @@
+{
+  "sample_rate": 16000,
+  "checks": [
+    {
+      "clip": 1,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9999135164657278,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 2,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9999717333451021,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 3,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9998967828627751,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 4,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9999290166544119,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    },
+    {
+      "clip": 5,
+      "best_audio_shift_seconds": 0.0,
+      "normalized_correlation": 0.9998200604550198,
+      "scope": "每段0.5秒源音轨样本相关性；不等于完整听音/嘴形同步验收"
+    }
+  ],
+  "decoded_audio_duration": 59.008
+}

@@ -1,0 +1,16 @@
+{
+  "format": {
+    "bit_rate": "772693",
+    "duration": "0.075",
+    "format_name": "mov,mp4 (AVFoundation adapter)",
+    "size": "7244",
+    "filename": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/tap.wav"
+  },
+  "streams": [
+    {
+      "codec_name": "lpcm",
+      "codec_type": "audio",
+      "index": 0
+    }
+  ]
+}

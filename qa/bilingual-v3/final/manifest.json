@@ -1,0 +1,66 @@
+{
+  "scope": "only qa/bilingual-v3/final",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/audio-windows.json",
+      "bytes": 12927,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/avfoundation-metadata.json",
+      "bytes": 382,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/decode-progress.txt",
+      "bytes": 941,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/final-verification.json",
+      "bytes": 8036,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/full-decode.log",
+      "bytes": 6224,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/poster-frame-deltas.json",
+      "bytes": 1436,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/roi-all-frames.json",
+      "bytes": 65184,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/roi-decode.log",
+      "bytes": 0,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/run-output.log",
+      "bytes": 1729,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/success-output.log",
+      "bytes": 5970,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/verify.py",
+      "bytes": 9000,
+      "purpose": "最终技术核验证据与可复核脚本，保留"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/bilingual-v3/final/manifest.json",
+      "purpose": "本任务文件清单"
+    }
+  ],
+  "new_temporary_media": [],
+  "cleanup": "无无用途一次性文件，未删除"
+}

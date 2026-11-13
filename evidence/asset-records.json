@@ -1,0 +1,862 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/fonts/heiti.ttc",
+    "source": "/System/Library/Fonts/STHeiti Medium.ttc",
+    "purpose": "本机私有渲染字体；不作为公开下载素材分发",
+    "bytes": 55746488,
+    "sha256": "2d37f927fb4c24a2ba4d318b903a607f6b7ad4e5f365c26aba6aaccb84038beb"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/fonts/songti.ttc",
+    "source": "/System/Library/Fonts/Supplemental/Songti.ttc",
+    "purpose": "本机私有渲染字体；不作为公开下载素材分发",
+    "bytes": 66902744,
+    "sha256": "dd2f0628d302f322a2e9c3cf3253d5e73f418275e1f1421c84a7c65ce5a87777"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/github-excerpt.jpg",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/github-title.jpg",
+    "purpose": "真实页面的编辑裁切；未重写页面字段",
+    "bytes": 55331,
+    "sha256": "fafbd915006405612e09e472d1efc99cf8f36ffa01e50ba429b6347f37cb3b28"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/toc-excerpt.jpg",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/chapter-menu.jpg",
+    "purpose": "真实页面的编辑裁切；未重写页面字段",
+    "bytes": 22329,
+    "sha256": "c989893a67e0508040b7f957177d3645e108eef266bda8b15ab0837849e77899"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/chapter-excerpt.jpg",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-chapter.jpg",
+    "purpose": "真实页面的编辑裁切；未重写页面字段",
+    "bytes": 111851,
+    "sha256": "98ecab01a8a79226603b02973457a3c635237721d5324ea6c1103401978758c4"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/cost-excerpt.jpg",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-entry.jpg",
+    "purpose": "真实页面的编辑裁切；未重写页面字段",
+    "bytes": 39134,
+    "sha256": "09b5a25eba111c6bbd3b94272b7d6f3cd3e389ebd0b5f3bd80001dc008384171"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/source-excerpt.jpg",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-sources.jpg",
+    "purpose": "真实页面的编辑裁切；未重写页面字段",
+    "bytes": 11503,
+    "sha256": "104b0efc6d5ab8c4daf842e17335389d9346024014fc573140f3ea2b1bb762c9"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/toc-scroll.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-record.json",
+    "purpose": "实际CUA页面录屏，按捕获时间及剪辑节奏重排静止间隔",
+    "frames": 30,
+    "duration": 6.4,
+    "bytes": 695191,
+    "sha256": "b2eda18f591b54ee2c8076f5a3c5962caeb45c1be7c989c383a0af002ed0cf8a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/source-scroll.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-record.json",
+    "purpose": "实际CUA页面录屏，按捕获时间及剪辑节奏重排静止间隔",
+    "frames": 36,
+    "duration": 6.4,
+    "bytes": 537230,
+    "sha256": "29eff97cd0b27b519e4ce91e9c2197d00d53119fb69689707d9348fcc367dbfd"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/skill-scroll.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-record.json",
+    "purpose": "实际CUA页面录屏，按捕获时间及剪辑节奏重排静止间隔",
+    "frames": 29,
+    "duration": 7.0,
+    "bytes": 1914760,
+    "sha256": "eb6f2965daa17d64e6a3c8a81fb31c420133b008b2e99b64cf0f754a4beb656f"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/tap.wav",
+    "source": "prepare-assets.py确定性正弦波",
+    "purpose": "自制轻量关键词音效，不是配音或背景音乐",
+    "bytes": 7244,
+    "sha256": "a6fe6b18e8bbb994622e765f3acaadf80c40f088b8b9c1e6d038a132fd9e67ad"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/reveal.wav",
+    "source": "prepare-assets.py确定性正弦波",
+    "purpose": "自制轻量关键词音效，不是配音或背景音乐",
+    "bytes": 17324,
+    "sha256": "71713afcc78d0426ffda362b38dbb020113eec3f4ac7d771ef66693900928c60"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0019.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 176350,
+    "sha256": "a3ca50c6dd620927e7083562f004ceda3efc328b3f1927ab102e1294371fef97"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0025.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 184895,
+    "sha256": "65addaf9cd7f3be91c0c294bf2fb13d38b04afa7c6445a2a0d54ab9a71519a01"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0024.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 169372,
+    "sha256": "287f91534a49e7282bad2cdbc9a9044ec07a053561742bac8b990cf362c12b02"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0018.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 174458,
+    "sha256": "49b15cf9ef837cdecffb6c499352579422dbc884189ba2f057d7fb867fa9da69"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0026.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 179870,
+    "sha256": "9ab2e2b47f6baa265d5a00acf0f2cdff36e92deed4ef818a60465175ff0a0469"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-top.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 122753,
+    "sha256": "1831a4a3920a89a36e6e25a44c6e5c5bcaa87f7a2d010e822c13e016907a162c"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0027.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 167465,
+    "sha256": "0c619c1789d7aa08d869b4d126fd57f5577253d66cd19026e110ec9063963d93"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll.ffconcat",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 3660,
+    "sha256": "69cba2f35b5861748316b081ab4569c2a75f71cdb10ba4d5792035e44051c872"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-cost-focus.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 122527,
+    "sha256": "197469d0f8045a1ef438443aa522c0f7c44f3e06c61cf64d494785e9f1865e07"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-record.json",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 9504,
+    "sha256": "d23d4b36912390ce8e718a341c7ba2500aad7b4170190943129ed7067f792ef6"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0023.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 169362,
+    "sha256": "1b0fe7ca585bfb584f34472bfd300bc4b8fe0820a6306025ac2397f10ba4bfdb"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0022.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 169362,
+    "sha256": "1b0fe7ca585bfb584f34472bfd300bc4b8fe0820a6306025ac2397f10ba4bfdb"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0020.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 172130,
+    "sha256": "21e34fc73113b06653a1b5ec9eb97022ea43b8780ad71dd56915daa5cf32cea7"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0008.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 161411,
+    "sha256": "54530a049b14f797e3607e7009016772571ca7708ed0424c2734dfc7a6e95a61"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/chapter-menu.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 112757,
+    "sha256": "b920d766d640e472eb71a9975d950a6b594fd4447316746ce9c809a31c129064"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0009.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 161392,
+    "sha256": "380b5c2144339b73dd187a90891f1fde1ac231333adb8f5cd033074ae59c7c12"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0021.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 172130,
+    "sha256": "21e34fc73113b06653a1b5ec9eb97022ea43b8780ad71dd56915daa5cf32cea7"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-chapter.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 144505,
+    "sha256": "69513ea2e5077f77e6d5d181ef448b89076adabb0c0b79c2e7ee981227144303"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0018.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0030.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0024.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0001.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 226796,
+    "sha256": "24c9b6096ac63cb90b114098ac52c79aaaa59141c1cbdd1e7421ba04882e3134"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-sources.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 133115,
+    "sha256": "1391898abefe2c889d2da7d430b3a1c1778ff7234c1e511f67853c941343ce2a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0015.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 228111,
+    "sha256": "7ebb064edb662e0e9eda8b2d672af45b04ba18031054d2a8a09d2eb4e3a11b84"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0029.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 203154,
+    "sha256": "c7f2f705f705f5588a9a1d5c65a32f2e665697823cfb7ab3da90743895e991fb"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0028.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 203116,
+    "sha256": "51da4c78421cd03f561682593e6c938c65e99a4b84f3522b8738e15a7bfcb68d"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0014.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 219708,
+    "sha256": "a292175a999461f3125517ce69375b20ce0f0ccf1d01197cf266348d03b7398f"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0000.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 226803,
+    "sha256": "ecc50ea9309d44d43f0a9a880254ed4a20ab04f25c260b478ad78f81a24282c5"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0025.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0031.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-body.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 127211,
+    "sha256": "840d95e443f234b697813d200202a8dda5c1964a173f92d9c8fbe3a2fc08e084"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0019.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0027.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0033.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0016.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 228111,
+    "sha256": "7ebb064edb662e0e9eda8b2d672af45b04ba18031054d2a8a09d2eb4e3a11b84"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0002.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 226803,
+    "sha256": "b269a63b655d97664ee6fd413553f826fdfae149b66f231447e11f5a54f62578"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll.ffconcat",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 4551,
+    "sha256": "0be83a9978636c440977faa4c02e581f15a9e10ce43cb49f87f72ba9424aabc1"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0003.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 226032,
+    "sha256": "78d9c48a19c09114209b4daf47ca7a16dd48f393b0638f01669f6c18ed2132f7"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0017.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 228135,
+    "sha256": "db04ba3046ecdfe94240fb3e83fafc719043263d7ab14358b59dcb41dca2d210"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0032.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0026.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0022.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0013.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 219673,
+    "sha256": "04b34210ac6b9faea201322b83efa6fe3691f3d0a22e99eabb52b91925963f65"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0007.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 232291,
+    "sha256": "6c3d1e94246bc11905394624e4715e5758b96ba430f08b76445b653b578446f8"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0006.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 232291,
+    "sha256": "6c3d1e94246bc11905394624e4715e5758b96ba430f08b76445b653b578446f8"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0012.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 219673,
+    "sha256": "04b34210ac6b9faea201322b83efa6fe3691f3d0a22e99eabb52b91925963f65"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0023.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0035.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0021.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0009.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0004.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 226032,
+    "sha256": "78d9c48a19c09114209b4daf47ca7a16dd48f393b0638f01669f6c18ed2132f7"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0010.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 227170,
+    "sha256": "49c04c2edd4e970447acd38d46c107465128d137cc6bf64ac63e168eba45754b"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0011.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 227206,
+    "sha256": "c92d0fac9980903442968d30546cd5bce19b7ead205c9addb788d13a9caabcdd"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0005.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 226025,
+    "sha256": "9db867090070aae1eb2d98e5e7950b0ab06152891a1a1607520bc8aca0bf6943"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0008.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0020.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0034.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0011.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0005.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0020.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 215067,
+    "sha256": "c05e4657b41105569797145c2963db88ae80ad9df074a73d7ebfad96ccd287da"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0008.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 232282,
+    "sha256": "ed1f9bcbf1d4bdee29fdd4a92e0094e40cac7d45f7f809b25d81e62ff98bf785"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/github-title.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 112151,
+    "sha256": "c7708acd9a9d3e9f7c0a379941cf5424f1dd5295afae0f17020dd75ca96a6e36"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0009.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 227170,
+    "sha256": "49c04c2edd4e970447acd38d46c107465128d137cc6bf64ac63e168eba45754b"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0021.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 223116,
+    "sha256": "46e377cbbac04ea01e62754b32cb922d4286863bb8907ad9d5b3f3e58d5e6b91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0004.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0010.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0006.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0012.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0023.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 223118,
+    "sha256": "7439f3dfe08af3d9c9a2008268deb9da74a7ede089deacfd45974b1e081fc1d3"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0022.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 223116,
+    "sha256": "46e377cbbac04ea01e62754b32cb922d4286863bb8907ad9d5b3f3e58d5e6b91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0013.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0007.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0003.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0017.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0026.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 213630,
+    "sha256": "ba055a8df2d25e66e0e0719790e6d997c1dc740e8ad08e4fa6a6e0b12ff91889"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll.ffconcat",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 3720,
+    "sha256": "67c8e282837133581dbb6db229b70fe05a3f118ad4a75b13a648fe414307ad27"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0027.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 203116,
+    "sha256": "51da4c78421cd03f561682593e6c938c65e99a4b84f3522b8738e15a7bfcb68d"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0016.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0002.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0014.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0000.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0028.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 234003,
+    "sha256": "1dc30cb4d524f86acaf71a1fd69eff87142c4ca394529fb32aaee1e5a9219e91"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0019.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 214953,
+    "sha256": "c37e6d0ad8c863306f47bdf20093f2b45837b7cf33fe1771840983734866307f"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0025.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 213676,
+    "sha256": "dde205c9095965c770d5b9d52618aaaa69c783428a0dc2aad8add9f04f702575"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0024.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 213676,
+    "sha256": "dde205c9095965c770d5b9d52618aaaa69c783428a0dc2aad8add9f04f702575"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-0018.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 214953,
+    "sha256": "c37e6d0ad8c863306f47bdf20093f2b45837b7cf33fe1771840983734866307f"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0029.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 231391,
+    "sha256": "30e00442dcaffebe80be07e29d9cd06c70f7983732483b8fe3dc918b5dc33206"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0001.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-0015.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 244721,
+    "sha256": "6d067d682de1312def963e65c0cddb9caefdac1f4ca1a33ad49ea592b5f4139a"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0010.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 162042,
+    "sha256": "b9fa670802d37e9882c8a8be1e98e376b211a9270d53571eb09ad9923bdcce32"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0004.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 170241,
+    "sha256": "cdeacdaded67e6d46856869b11e8b1e8bcdef5e471326b44de0baf9e96c4cd97"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0005.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 162627,
+    "sha256": "765703856ff5c19768415ea28d5af9fb8068336bc0705b8d26a528960572ac00"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0011.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 165017,
+    "sha256": "12c6cede650ef6158c937e0d9d8daa148880150b28b7a19395b991572a75954d"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-scroll-record.json",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 11488,
+    "sha256": "faadb05ebfb8230006bc1fcd519091a7da8eca11b4e8d9d24dc24c9f748f4695"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/source-focus.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 122527,
+    "sha256": "197469d0f8045a1ef438443aa522c0f7c44f3e06c61cf64d494785e9f1865e07"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0007.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 161271,
+    "sha256": "139ff593ec985eda97aa6935ad4c907f20360629013c462d27a27fe19636e117"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0013.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 167480,
+    "sha256": "90520664d10c4955db1b70d9935c8e3b886448e6c76948b763dc5bbb31e5dde9"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0012.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 167480,
+    "sha256": "90520664d10c4955db1b70d9935c8e3b886448e6c76948b763dc5bbb31e5dde9"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0006.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 150425,
+    "sha256": "0c8806d59554ead10d0ae4fc4a461b68cb1b6cb66c4a5fa391523f9207f76f90"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0002.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 126238,
+    "sha256": "d51c3fd9a09e00cdf80b10a7b9a6424cb598f371d329a0190113f0b71447880d"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0016.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 174885,
+    "sha256": "b292878fe0bbe6ad7d9f9e4d12b8226a08b3391c8009631eaa0ee43fb5eb4d01"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-entry.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 128458,
+    "sha256": "cc7e194246d4dc1771f8c6180d86ca4f5aeb496f89d53b64b97bb3e07b835753"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0017.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 183368,
+    "sha256": "32c39c1f302c2b0e484cd84c75105e986b8200120e8955689fa122d3d569cfb7"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0003.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 145360,
+    "sha256": "d4f4b184318aaab68babdfc80e5701be2628cb3f06e19ab61358dc2e8adefed5"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/toc-scroll-record.json",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 9494,
+    "sha256": "0bb150d2afb40ab05911d00c567eba8d271cb5646d947e0fdeaf30e248540808"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0015.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 162787,
+    "sha256": "d15c5adbef8d6b1d3a3a7f76904be4d0b40b885282b63e94c1e90405b412333e"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0001.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 126238,
+    "sha256": "d51c3fd9a09e00cdf80b10a7b9a6424cb598f371d329a0190113f0b71447880d"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0028.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 170704,
+    "sha256": "277fc05308e128bdeabfd9dca2f146af687b081908753bf0fbf237c4a3991873"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0000.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 123477,
+    "sha256": "bb156630827b51acc648aa3449c2e6c88625dd66fe0ebc563172ebef3ddc9964"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/capture/skill-scroll-0014.jpg",
+    "source": "本轮CUA截图/实际screencast或其ffconcat",
+    "purpose": "真实页面素材及捕获证据，保留复核",
+    "bytes": 167456,
+    "sha256": "351876521e8b674380f7467dcf265a41fe8cb9b96d2d626e5d90e6f69041193c"
+  }
+]

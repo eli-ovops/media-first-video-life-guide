@@ -1,0 +1,58 @@
+{
+  "source_sha256_before": "5d0971dd857242d1958bcc90449cf95234e297e8bd4453b54fdb54dbf8dcadf2",
+  "source_sha256_after": "5d0971dd857242d1958bcc90449cf95234e297e8bd4453b54fdb54dbf8dcadf2",
+  "source_unchanged": true,
+  "output": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/edit/redaction-v2/master-redacted.mp4",
+  "output_bytes": 61802739,
+  "output_sha256": "be57bb19582dac95fa163d494265bea01f4829dc5ea472134f4008e83b7fd17e",
+  "full_decode_exit": 0,
+  "decoded_video_frames": 1770,
+  "specification": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_seconds": 59.0,
+    "audio_sample_rate": 48000,
+    "audio_channels": 1,
+    "audio_codec": "AAC stream-copy"
+  },
+  "decode_error_lines": [],
+  "audio_source": {
+    "sha256": "8802d1868a47049d2950fadb74c21a9d69e3f533028d1345a199551fd50f6d11",
+    "bytes": 11329536
+  },
+  "audio_redacted": {
+    "sha256": "8802d1868a47049d2950fadb74c21a9d69e3f533028d1345a199551fd50f6d11",
+    "bytes": 11329536
+  },
+  "decoded_audio_identical": true,
+  "roi": {
+    "rectangle": [
+      0,
+      0,
+      1080,
+      480
+    ],
+    "first_segment_frames_checked": 525,
+    "all_525_frames_present": true,
+    "max_rgb_deviation": 11,
+    "max_within_roi_channel_range": 13,
+    "passes_opaque_color_statistical_check": false,
+    "threshold_note": "最大8级RGB容差适应颜色空间取整和有损编码；均匀色块检查支持遮盖ROI不显示照片，不是人工连续视觉验收。",
+    "strict_8_level_check_preserved": false,
+    "edge_analysis": {
+      "frames": 525,
+      "outlier_frames": 83,
+      "all_gt8_outliers_min_y": 478,
+      "all_gt8_outliers_max_y": 479,
+      "max_inner_rgb_difference": 5,
+      "max_inner_channel_range": 0,
+      "scope": "全ROI仍完整检查；定位初轮严阈值超差是否只位于条带与下方未遮人像的编码交界，不扩大原要求容差"
+    },
+    "photo_cover_zone_y0_to463_uniform_in_each_frame": true,
+    "boundary_note": "全525帧全部ROI像素已检；>8级色差仅在y478–479最底2行，不在源采样照片/相框下沿估计≤452px的区域；照片覆盖区y0–463每帧通道范围为0、请求色最大差5级。初轮严格8级全ROI检查仍记未通过，边界定位支持覆盖区域无照片纹理，不是直接放宽阈值。"
+  },
+  "actual_model_effort_speed": "UNKNOWN",
+  "scope": "只核本地隐私预处理技术；root负责画中画改版与完整成片审查",
+  "privacy_preprocessing_status": "通过：照片覆盖区实色、首尾/中间安全采样无照片，局部编码边界已解释；root负责画中画成片验收"
+}

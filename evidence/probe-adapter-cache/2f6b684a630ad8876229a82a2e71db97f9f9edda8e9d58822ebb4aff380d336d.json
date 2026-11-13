@@ -1,0 +1,23 @@
+{
+  "format": {
+    "bit_rate": "671537",
+    "duration": "6.4",
+    "format_name": "mov,mp4 (AVFoundation adapter)",
+    "size": "537230",
+    "filename": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/assets/source-scroll.mp4"
+  },
+  "streams": [
+    {
+      "avg_frame_rate": "30.0/1",
+      "codec_name": "h264",
+      "codec_type": "video",
+      "height": 1280,
+      "width": 720,
+      "nb_frames": "192",
+      "nb_read_frames": "192",
+      "duration": "6.4",
+      "r_frame_rate": "30.0/1",
+      "index": 0
+    }
+  ]
+}

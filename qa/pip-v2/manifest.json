@@ -1,0 +1,63 @@
+{
+  "created_by": "pip_final_audit",
+  "scope": "只写qa/pip-v2；未改源媒体/工程",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/README.md",
+      "bytes": 2265,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/final-audio-windows.json",
+      "bytes": 17869,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/final-avfoundation-metadata.json",
+      "bytes": 382,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/final-decode-progress.txt",
+      "bytes": 2267,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/final-full-decode.log",
+      "bytes": 6818,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/final-verification.json",
+      "bytes": 5396,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/manifest.json",
+      "bytes": 2153,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/roi-all-frames.json",
+      "bytes": 63364,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/roi-decode.log",
+      "bytes": 0,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/run-output.log",
+      "bytes": 2994,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/pip-v2/verify_final.py",
+      "bytes": 8194,
+      "purpose": "最终技术验收可复核证据；保留，不清理"
+    }
+  ],
+  "temporary_media_created": [],
+  "cleanup": "无无用途一次性文件；所有日志与脚本为验收证据保留"
+}

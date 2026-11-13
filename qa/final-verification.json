@@ -1,0 +1,158 @@
+{
+  "target": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-首条-v1.mp4",
+  "bytes": 54770734,
+  "sha256": "79f1a550f7d9948b8e9d6ccb150912506ca617cecf776c54bfb3e414fe798811",
+  "specification_source": "当前AVFoundation元数据及真实FFmpeg完整解码；未调用会写evidence的ffprobe-adapter",
+  "metadata": {
+    "format": {
+      "bit_rate": "7426540",
+      "duration": "59.0",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "54770734"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "30.0/1",
+        "codec_name": "h264",
+        "codec_type": "video",
+        "height": 1920,
+        "width": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "full_decode_command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-hide_banner",
+    "-nostdin",
+    "-v",
+    "info",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-首条-v1.mp4",
+    "-vf",
+    "blackdetect=d=0.02:pic_th=0.98:pix_th=0.1",
+    "-af",
+    "astats=metadata=0:reset=0",
+    "-progress",
+    "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/qa/final-decode-progress.txt",
+    "-f",
+    "null",
+    "-"
+  ],
+  "full_decode_exit": 0,
+  "decoded_video_frames": 1770,
+  "black_events": [],
+  "decode_error_lines": [],
+  "audio": {
+    "decoded_master_seconds": 59.008,
+    "decoded_final_seconds": 59.008,
+    "native_sample_peak_linear": 0.5593218207359314,
+    "native_sample_peak_dbfs": -5.046764745552017,
+    "samples_abs_ge_0_99995": 0,
+    "samples_abs_gt_1": 0,
+    "rms_linear": 0.06460749406563256,
+    "nonempty": true,
+    "peak_limit": "只核解码样本峰值；未证明模拟true-peak/完整主观听音"
+  },
+  "audio_correlation": {
+    "regions": [
+      {
+        "clip": 1,
+        "master_region": [
+          11.5,
+          13.5
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999759294034929
+      },
+      {
+        "clip": 2,
+        "master_region": [
+          18.5,
+          20.5
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999976750349777
+      },
+      {
+        "clip": 3,
+        "master_region": [
+          29,
+          31
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999591465717665
+      },
+      {
+        "clip": 4,
+        "master_region": [
+          41,
+          43
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999973747395219
+      },
+      {
+        "clip": 5,
+        "master_region": [
+          53,
+          55
+        ],
+        "best_offset_seconds": 0.0,
+        "normalized_correlation": 0.9999923919595215
+      }
+    ],
+    "excluded_sfx_windows": [
+      [
+        0,
+        0.6
+      ],
+      [
+        3.05,
+        3.7
+      ],
+      [
+        6.25,
+        6.9
+      ],
+      [
+        10.6,
+        11.4
+      ]
+    ],
+    "median_offset_seconds": 0.0,
+    "half_second_voiced_windows_tested": 107,
+    "min_correlation": 0.9985874700207898,
+    "median_correlation": 0.9999944034039613,
+    "windows_below_0_97": [],
+    "min_gain": 1.405167116600367,
+    "max_gain": 1.4142279275164666,
+    "method": "5段各2s±200ms偏移搜索＋全轨0.5s语音窗相关性（排除4个SFX窗和<-45dB静音）；对master，不重读原片",
+    "interpretation": "高相关性和稳定偏移支持同源原声、无可检测语音缺口；不等于逐字听音验收"
+  },
+  "actual_model_effort_speed": "UNKNOWN",
+  "specifications": {
+    "duration_seconds": 59.0,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "video_codec": "H264 High",
+    "pixel_format": "yuv420p",
+    "color": "BT.709 SDR",
+    "audio_codec": "AAC LC",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2
+  },
+  "technical_verification_status": "通过；不替代完整听音及root成片画面审查",
+  "hyperframes_check_summary": {
+    "source": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/evidence/check-report-v2.json",
+    "runtime_errors": 0,
+    "layout_errors": 0,
+    "motion_errors": 0,
+    "contrast_errors": 0,
+    "layout_info_findings": 8
+  }
+}

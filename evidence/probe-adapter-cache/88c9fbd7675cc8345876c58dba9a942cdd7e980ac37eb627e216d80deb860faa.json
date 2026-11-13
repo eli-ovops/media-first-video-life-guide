@@ -1,0 +1,19 @@
+{
+  "format": {
+    "bit_rate": "191607",
+    "duration": "59.477333333333334",
+    "format_name": "mov,mp4 (AVFoundation adapter)",
+    "size": "1424541",
+    "filename": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/work-01150e02-6f7d-4eed-9577-d09df21539a6-DI8pVj/audio.m4a"
+  },
+  "streams": [
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "index": 0,
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "59.52"
+    }
+  ]
+}

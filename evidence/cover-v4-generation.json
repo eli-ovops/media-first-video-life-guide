@@ -1,0 +1,41 @@
+{
+  "tool": "built-in image_gen",
+  "kind": "new non-person illustration",
+  "generated_source": "/Users/USER/.codex/generated_images/01a11194-c40d-7bf0-8396-5bb5d6449444/exec-5ad6bd26-631f-47a5-9298-f528eec68802.png",
+  "asset": "assets/poster-book-tech-v4.png",
+  "portrait": "assets/poster-portrait-neutral-v4.jpg",
+  "portrait_source": "38.5s of edit/redaction-v2/master-redacted.mp4; native composition clip-path, local only",
+  "reference": "user supplied public creator thumbnail screenshot; cyan/gold, 3D prop, huge type, presenter composition",
+  "private_portrait_uploaded": false,
+  "only_changed_clip": "cover-v3",
+  "duration": 0.5,
+  "body_unchanged": true,
+  "body_markup_sha256": "e51d0dc01e9b86ad0209ee86dd9a69855f70f2dd6c37a4cb38253031a69e97c3",
+  "body_markup_matches_v3": true,
+  "assets": [
+    {
+      "path": "assets/poster-book-tech-v4.png",
+      "bytes": 1956417,
+      "sha256": "9985b3d4e1d009d1248b743cb9f7717b93f87a8cad25225d2c476575f6ee8f7a"
+    },
+    {
+      "path": "assets/poster-portrait-neutral-v4.jpg",
+      "bytes": 106718,
+      "sha256": "f3b448e7303581c33ca7f96e4b37167815b64492035d9367acc02980c3e21c10"
+    },
+    {
+      "path": "renders/封面海报-科技风-v4.png",
+      "bytes": 2128531,
+      "sha256": "a3955e6388a2c92c9fe7476f0bcc77b3fa8d9f48a47b44ac5815d1b9e39d9469"
+    }
+  ],
+  "prompt": "Portrait 9:16 cinematic tech creator thumbnail background; dark navy, electric cyan holographic life-choice pictograms, metallic-gold luminous open book on left; clean space at top/bottom for typography and right for presenter; no people, text, logo or watermark.",
+  "composition_native_crop": true,
+  "poster_copy": [
+    "GitHub上竟然有",
+    "人生说明书",
+    "免费公开！",
+    "租房 · 换工作 · 学技能"
+  ],
+  "composition_sha256": "6b26544edebee2ed125638293a20e8134c592d01028fde7654cc6d7ae1dc8a31"
+}

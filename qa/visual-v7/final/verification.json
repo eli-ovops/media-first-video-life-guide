@@ -1,0 +1,86 @@
+{
+  "video": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-视觉修订-定框淡入-中英双语-v7.mp4",
+  "bytes": 81049530,
+  "sha256": "5a9754de36b4c63308bfb955a3999ee34431bf1df25d0439e4b06f83342d1779",
+  "metadata": {
+    "format": {
+      "bit_rate": "10897415",
+      "duration": "59.5",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "81049530"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "30.0/1",
+        "codec_name": "h264",
+        "codec_type": "video",
+        "height": 1920,
+        "width": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "full_decode_exit": 0,
+  "frames": 1785,
+  "reached_end": true,
+  "errors": [],
+  "black_events": [],
+  "audio": {
+    "reference": "/Volumes/EXTERNAL/自媒体/first-video-life-guide-20261008/renders/人生指南-地球online攻略-中英双语-v6.mp4",
+    "same_decoded_float_samples": true,
+    "correlation": 1.0,
+    "peak": 0.5596057176589966,
+    "first_half_second_peak": 2.035812576650642e-05,
+    "clipping_samples": 0
+  },
+  "cover": {
+    "stable_frame_count": 15,
+    "max_mean_rgb_difference": 0.051545781893004114,
+    "boundary_at_seconds": 0.5,
+    "boundary_mean_rgb_difference": 93.37362397119341
+  },
+  "protected_html_sections_unchanged": {
+    "placed_media": true,
+    "captions": true,
+    "cover": true,
+    "animation_except_chapter_highlight": true
+  },
+  "exported_frame_count": 37,
+  "check_summary": {
+    "lint": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 46,
+      "infoCount": 0
+    },
+    "runtime": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "layout": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "motion": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    },
+    "contrast": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0,
+      "infoCount": 0
+    }
+  },
+  "scope": "Full technical decode/audio comparison plus listed static exported samples; no claim of continuous dynamic viewing/hearing or independent visual PASS.",
+  "technical_passed": true
+}
